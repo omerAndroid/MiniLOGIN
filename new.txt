@@ -1,6 +1,6 @@
 cd Graduation_Project\MiniLOGIN\
 git status
 git add *
-git commit  -m "commit_1"
+git commit  -m "commit_2"
 git push origin main
 
